@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently working on machine learning and data analysis<br>i am currrently looking to collaborate on real world implemented projects <br>i am currently learning deep learning and data analysis<br>i am a 2nd year undergraduate from cse data science specialization branch<br>and i do dsa in cpp <br>
+Data Science Undergraduate<br> Machine Learning & Deep Learning Practitioner<br>C++ DSA <br>Seeking Collaborative AI/ML Projects<br>
 
 
 ## 🌐 Socials:
