@@ -1,5 +1,5 @@
 # 💫 About Me:
-2nd year Data Science Undergraduate<br>Machine Learning & Deep Learning Practitioner<br>MySQL | PowerBI Practitioner<br>C++ DSA<br>Seeking Collaborative AI/ML Projects<br>
+2nd year Data Science Undergraduate<br>Machine Learning & Deep Learning Practitioner<br>MySQL 4⭐HackerRank <br>C++ DSA<br>Seeking Collaborative AI/ML Projects<br>
 
 
 ## 🌐 Socials:
