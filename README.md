@@ -35,8 +35,5 @@ Seeking Collaborative AI/ML Projects
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=anamitra-tech&theme=default_repocard&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anamitra-tech&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=anamitra-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
