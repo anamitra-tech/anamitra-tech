@@ -16,6 +16,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=anamitra-tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anamitra-tech&icon=0&color=0)](https://visitcount.itsvg.in)
+.github/workflows/generate-city.yml   ← runs daily automatically
+scripts/generate-city.js              ← generates the SVG
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
