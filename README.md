@@ -2,6 +2,11 @@
 2nd Year Data Science Undergraduate<br>Machine Learning & Deep Learning Practitioner<br>MySQL 4⭐ HackerRank | C++ DSA<br>Seeking Collaborative AI-ML Projects
 <br><b>Vibe Coder✨💫</b>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anamitra-tech/anamitra-tech/main/github-city.svg" 
+       alt="My GitHub City" width="100%" />
+</p>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anamitra-bakshi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anamitra1205@gmail.com) 
 
