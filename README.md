@@ -13,7 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anamitra-tech&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-.github/workflows/generate-city.yml   ← runs daily automatically
-scripts/generate-city.js              ← generates the SVG
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
