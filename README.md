@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Intern @ C-DAC<br>
+Data Science Intern @ C-DAC<br>
 2nd Year Data Science Undergraduate<br>MySQL 4⭐ HackerRank | C++ DSA<br>Seeking Collaborative AI-ML Projects
 <br><b>Vibe Coder✨💫</b>
 
