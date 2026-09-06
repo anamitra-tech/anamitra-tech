@@ -2,7 +2,7 @@
 Data Science Intern @ C-DAC<br>
 Smart India Hackathon'25 Nationalist(Top 0.1%)<br>
 3rd Year Data Science Undergraduate<br>MySQL 4⭐ HackerRank | C++ DSA
-<br><b>Vibe Coder✨💫</b>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/anamitra-tech/anamitra-tech/main/github-city.svg" 
