@@ -1,6 +1,6 @@
 # 💫 About Me:
 Data Science Intern @ C-DAC<br>
-Smart India Hackathon'25 Nationalist(Top 0.1%)
+Smart India Hackathon'25 Nationalist(Top 0.1%)<br>
 3rd Year Data Science Undergraduate<br>MySQL 4⭐ HackerRank | C++ DSA
 <br><b>Vibe Coder✨💫</b>
 
